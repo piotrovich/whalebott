@@ -1,1 +1,1 @@
-# whalebott
+# My project's README

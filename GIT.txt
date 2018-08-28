@@ -1,0 +1,31 @@
+git pull
+
+git commit -am "Se corrige agregar Duplicado y agregar duplicado express, se corrige visual de aut/lib/eli/det/ins"
+
+git push
+
+git commit -am "bower 1.4.6-SNAPSHOT-21"
+
+git tag v1.4.6-SNAPSHOT-19
+
+git push --tag
+-----------------------------------
+desarrollo
+----------------------------------
+git status
+git add . (añade al git todos los cambios)
+git commit -m ""
+git pull
+	<resolver conflictos>
+git push
+
+
+-------
+	git checkout develop
+	git checkout master
+
+git status
+git add .
+git commit -m ""
+git pull 	(PARA VERIFICAR QUE NO HAY CAMBIOS DE EL RUSO Y REVISAR MERGE)
+git push 
