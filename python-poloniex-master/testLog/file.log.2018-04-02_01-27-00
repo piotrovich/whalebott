@@ -1,0 +1,5 @@
+2018-04-02 01:27:01,530 - prueba - DEBUG - message debug
+2018-04-02 01:27:01,718 - prueba - INFO - message info
+2018-04-02 01:27:01,908 - prueba - WARNING - message warning
+2018-04-02 01:27:02,158 - prueba - ERROR - message error
+2018-04-02 01:27:02,500 - prueba - CRITICAL - message critical
